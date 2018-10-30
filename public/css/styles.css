@@ -1,0 +1,24 @@
+.btn-h1-spacing-top
+{
+    margin-top: 15px;
+}
+.form-spacing-top
+{
+    margin-top:60px;
+}
+.padd
+{
+    padding: 5px 50px 5px 50px;
+}
+.float
+{
+    float: right;
+
+    position: relative;
+    left: -45%; /* or right 50% */
+    text-align: left;
+}
+.marigin_left
+{
+    margin-left: 10px;
+}
